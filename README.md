@@ -3,4 +3,4 @@ First Repository
 
 Hi Humans!
 
-I'm Andrea, 21 years old.
+I'm Andrea, 21 years old. This is my first GitHub repository.
